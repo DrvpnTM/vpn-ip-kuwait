@@ -1,18 +1,17 @@
-# VPN IP Kuwait — Dr VPN
+# VPN IP Kuwait — Fast, Secure VPN for Kuwait
 
-**VPN IP Kuwait** is a fast, secure and free VPN for Android. Get a **Kuwait IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Kuwait** is a free, open-source, ad-free VPN app for Android, built for users in Kuwait. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Kuwait (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_kw_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-kuwait/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Kuwait IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Kuwait, Kuwait VPN, VPN IP Kuwait, Kuwait IP address, free VPN Kuwait, buy VPN Kuwait, fast VPN Kuwait, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Kuwait, free VPN Kuwait, fast VPN, VPN IP Kuwait, Android VPN, unblock websites Kuwait.</sub>
